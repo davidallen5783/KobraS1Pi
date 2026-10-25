@@ -1,0 +1,1 @@
+spoolman_logic.cfg	/home/klipper/printer_data/config/spoolman_logic.cfg
