@@ -1,0 +1,7 @@
+printer_generic_macros.cfg	/home/klipper/printer_data/config/printer_generic_macros.cfg
+ace_macros_generic.cfg	/home/klipper/printer_data/config/ace_macros_generic.cfg
+ace_KS1.cfg	/home/klipper/printer_data/config/ace_KS1.cfg
+spoolman_logic.cfg	/home/klipper/printer_data/config/spoolman_logic.cfg
+moonraker.conf	/home/klipper/printer_data/config/moonraker.conf
+screen.py	/home/klipper/KlipperScreen/screen.py
+KlipperScreen.conf	/home/klipper/printer_data/config/KlipperScreen.conf
